@@ -6,6 +6,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Extending the adopted spec, each change should have a link to its corresponding pull request appended.
 
+## [22.0.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/compare/v21.2.0...v22.0.0) (2022-06-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* support maintenance_exclusion (#1273)
+
+### Features
+
+* Allow enabling managed Prometheus in beta cluster submodules ([#1307](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/issues/1307)) ([71e7067](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/commit/71e7067c7b0279a84284cf0713ed77d79c19e86b))
+* support maintenance_exclusion ([#1273](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/issues/1273)) ([425bf93](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/commit/425bf93e60c75a0b238ca3c6aa968000f89a9271))
+
 ## [21.2.0](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine/compare/v21.1.0...v21.2.0) (2022-06-22)
 
 
